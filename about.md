@@ -29,7 +29,7 @@ To have a successful hackathon, we need 3-4 *topics*:
 - As much as possible, tasks/sub-tasks are defined for each topicsto help each team to achieve the expected outcomes.
 - Each topic has a mentor/facilitator that is also part of the team.
 
-So before each hackathon, we select 3-4 topics, based on the project and community priorities. If you would like to suggest a topic, fill an issue [here](https://github.com/NorESMhub/INES-hackthons/issues/new).
+So before each hackathon, we select 3-4 topics, based on the project and community priorities. If you would like to suggest a topic, fill an issue [here](https://github.com/NorESMhub/INES-hackathons/issues/new).
  
 ### During the hackathon day
 
@@ -50,6 +50,6 @@ Anyone interested in contributing to norESM (students, software experts, researc
 Read information on each topics and in particular the expected outcomes. We also try to add expertise that may be helpful for fulfilling the tasks. However, there are no requirements and everyone is welcome. Even if you have little programming experience, you will be able to help and learn.
 
 
-Check the main [INES hackathon](nordicesmhub.github.io/INES-hackathons) webpage. INES hackathons are held simultaneously in Oslo (MetNo, MetOS) and Bergen (NORCE). More information is available for each event. In any doubts or if you would like to get more information, write us an [issue](https://github.com/NorESMhub/INES-hackthons/issues/new).
+Check the main [INES hackathon](nordicesmhub.github.io/INES-hackathons) webpage. INES hackathons are held simultaneously in Oslo (MetNo, MetOS) and Bergen (NORCE). More information is available for each event. In any doubts or if you would like to get more information, write us an [issue](https://github.com/NorESMhub/INES-hackathons/issues/new).
 
 <p>Photo by <a href="https://unsplash.com/@marvelous">Marvin Meyer</a> on <a href="https://unsplash.com/">Unsplash</a>.</p>
